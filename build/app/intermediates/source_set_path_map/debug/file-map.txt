@@ -1,0 +1,12 @@
+com.and.pdpui.pdpui.app-jetified-window-java-1.0.0-beta04-0 /home/davronov/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.and.pdpui.pdpui.app-core-1.6.0-1 /home/davronov/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.and.pdpui.pdpui.app-jetified-annotation-experimental-1.1.0-2 /home/davronov/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.and.pdpui.pdpui.app-jetified-window-1.0.0-beta04-3 /home/davronov/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.and.pdpui.pdpui.app-debug-4 /home/davronov/StudioProjects/pdpui/android/app/src/debug/res
+com.and.pdpui.pdpui.app-main-5 /home/davronov/StudioProjects/pdpui/android/app/src/main/res
+com.and.pdpui.pdpui.app-pngs-6 /home/davronov/StudioProjects/pdpui/build/app/generated/res/pngs/debug
+com.and.pdpui.pdpui.app-resValues-7 /home/davronov/StudioProjects/pdpui/build/app/generated/res/resValues/debug
+com.and.pdpui.pdpui.app-rs-8 /home/davronov/StudioProjects/pdpui/build/app/generated/res/rs/debug
+com.and.pdpui.pdpui.app-mergeDebugResources-9 /home/davronov/StudioProjects/pdpui/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.and.pdpui.pdpui.app-mergeDebugResources-10 /home/davronov/StudioProjects/pdpui/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.and.pdpui.pdpui.app-merged_res-11 /home/davronov/StudioProjects/pdpui/build/app/intermediates/merged_res/debug
